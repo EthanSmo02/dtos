@@ -44,7 +44,7 @@ DTOS is the name that I have chosen for my post-installation script that will de
 ** Installation instructions
 To install DTOS, you need to clone this repository and run the ~dtos~ script.
 #+begin_example
-git clone https://gitlab.com/dwt1/dtos
+git clone https://github.com/EthanSmo02/dtos.git
 cd dtos/
 ./dtos
 #+end_example
